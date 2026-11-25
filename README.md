@@ -66,12 +66,5 @@ All functions run after `DOMContentLoaded`.
 4. User interactions trigger the relevant function (menu toggle, dot click, anchor click, scroll).
 
 ---
-
-## 5. How to Replace Media Placeholders
-
-Every placeholder looks like this:
-
-```html
-<div class="media-placeholder">
   <span class="placeholder-label">IMAGE PLACEHOLDER<br />Churfries Product Photo</span>
 </div>
