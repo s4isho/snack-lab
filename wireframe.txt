@@ -1,0 +1,88 @@
+================================================================
+ WIREFRAME — PROMOTIONAL SNACK SHOWCASE
+================================================================
+
+ ┌────────────────────────────────────────────────────────────┐
+ │  STICKY HEADER (black bar)                                 │
+ │  [LOGO]          [Churfries] [Shawburg] [Ubena-chee]       │
+ │                  [Our Story] [GET IN TOUCH]                │
+ └────────────────────────────────────────────────────────────┘
+
+ ┌────────────────────────────────────────────────────────────┐
+ │  HERO SECTION (wine background)                            │
+ │                                                            │
+ │   [IMG]                                       [IMG]        │
+ │   (mask-cut)                                  (mask-cut)   │
+ │                                                            │
+ │            ◂ Three Snacks. One Bold Craving. ▸             │
+ │                                                            │
+ │         C H U R F R I E S                                  │
+ │         S H A W B U R G                                    │
+ │         U B E N A - C H E E                                │
+ │                                                            │
+ │   Familiar ingredients, unexpected twists. Freshly         │
+ │   prepared, affordably priced, and designed to surprise.   │
+ │                                                            │
+ │        [EXPLORE THE LINEUP]  [OUR STORY]                   │
+ │                                                            │
+ │   [VIDEO]                                     [IMG]        │
+ │   (mask-cut)                                  (mask-cut)   │
+ └────────────────────────────────────────────────────────────┘
+
+ ┌────────────────────────────────────────────────────────────┐
+ │  PRODUCT SHOWCASE — “THE LINEUP”                           │
+ │                                                            │
+ │            ◂ Meet the Snacks ▸                             │
+ │            T H E   L I N E U P                             │
+ │                                                            │
+ │   ┌──────────────┐  ┌──────────────┐  ┌──────────────┐     │
+ │   │ [IMG]        │  │ [IMG]        │  │ [IMG]        │     │
+ │   │ Churfries    │  │ Shawburg     │  │ Ubena-chee   │     │
+ │   │ placeholder  │  │ placeholder  │  │ placeholder  │     │
+ │   │              │  │              │  │              │     │
+ │   │ CHURFRIES    │  │ SHAWBURG     │  │ UBENA-CHEE   │     │
+ │   │ tagline      │  │ tagline      │  │ tagline      │     │
+ │   │ description  │  │ description  │  │ description  │     │
+ │   │ [Learn][Find]│  │ [Learn][Find]│  │ [Learn][Find]│     │
+ │   └──────────────┘  └──────────────┘  └──────────────┘     │
+ │                                                            │
+ │                  ●   ○   ○   (carousel dots)               │
+ └────────────────────────────────────────────────────────────┘
+
+ ┌────────────────────────────────────────────────────────────┐
+ │  STORY / ABOUT (burgundy background)                       │
+ │                                                            │
+ │            ◂ Why We Made These ▸                           │
+ │   F A M I L I A R .   S U R P R I S I N G .                │
+ │   S A T I S F Y I N G .                                    │
+ │                                                            │
+ │   [paragraph about product philosophy]                     │
+ │                                                            │
+ │   [IMAGE placeholder]        [VIDEO placeholder]           │
+ │   (16:9)                     (16:9)                        │
+ └────────────────────────────────────────────────────────────┘
+
+ ┌────────────────────────────────────────────────────────────┐
+ │  CONTACT / CTA (wine background)                           │
+ │                                                            │
+ │            ◂ Get in Touch ▸                                │
+ │   WANT TO CARRY OUR SNACKS?                                │
+ │                                                            │
+ │   [paragraph about partnership]                            │
+ │                                                            │
+ │        [EMAIL US]   [DOWNLOAD PRODUCT SHEET]               │
+ │                                                            │
+ │   (Replace email and link with your own details.)          │
+ └────────────────────────────────────────────────────────────┘
+
+ ┌────────────────────────────────────────────────────────────┐
+ │  FOOTER (black bar)                                        │
+ │  [LOGO]                                                    │
+ │  [Churfries] [Shawburg] [Ubena-chee] [Story] [Contact]     │
+ │  © 2025 Snack Lab. Promotional showcase only.              │
+ └────────────────────────────────────────────────────────────┘
+
+ FLOATING ELEMENTS
+ ─────────────────
+ • Back-to-top button (bottom-right, red circle, appears on scroll)
+ • Mobile hamburger menu (replaces nav links on small screens)
